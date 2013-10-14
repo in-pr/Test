@@ -1,0 +1,10 @@
+package ee.ut.math.tvt.KungFuPandas;
+
+public class Intro {
+
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+
+	}
+
+}
